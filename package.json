@@ -4,7 +4,7 @@
   "description": "Completely hackable and editable without repackaging client for iMonke",
   "main": "index.js",
   "dependencies": {
-    "electron": "^3.0.6",
+    "electron": "^15.5.5",
     "electron-packager": "^15.1.0",
     "electron-squirrel-startup": "^1.0.0",
     "electron-store": "^6.0.1",
